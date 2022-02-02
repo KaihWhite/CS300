@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+Z:/Projects/School Work/CS300/Assignment1/BagInterface.h
+
+Z:/Projects/School Work/CS300/Assignment1/MagicChangeBag.cpp
+MagicChangeBag.h
+Z:/Projects/School Work/CS300/Assignment1/MagicChangeBag.h
+
+Z:/Projects/School Work/CS300/Assignment1/MagicChangeBag.h
+PlainBag.h
+Z:/Projects/School Work/CS300/Assignment1/PlainBag.h
+MagicChangeBag.cpp
+Z:/Projects/School Work/CS300/Assignment1/MagicChangeBag.cpp
+
+Z:/Projects/School Work/CS300/Assignment1/PlainBag.cpp
+vector
+-
+PlainBag.h
+Z:/Projects/School Work/CS300/Assignment1/PlainBag.h
+iostream
+-
+
+Z:/Projects/School Work/CS300/Assignment1/PlainBag.h
+BagInterface.h
+Z:/Projects/School Work/CS300/Assignment1/BagInterface.h
+vector
+-
+PlainBag.cpp
+Z:/Projects/School Work/CS300/Assignment1/PlainBag.cpp
+

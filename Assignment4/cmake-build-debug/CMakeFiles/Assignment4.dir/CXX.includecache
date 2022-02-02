@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+Z:/Projects/School Work/CS300/Assignment4/BigInteger.h
+string
+-
+DoublyLinkedList.h
+Z:/Projects/School Work/CS300/Assignment4/DoublyLinkedList.h
+fstream
+-
+istream
+-
+
+Z:/Projects/School Work/CS300/Assignment4/DoublyLinkedList.cpp
+DoublyLinkedList.h
+Z:/Projects/School Work/CS300/Assignment4/DoublyLinkedList.h
+NoSuchElementException.h
+Z:/Projects/School Work/CS300/Assignment4/NoSuchElementException.h
+
+Z:/Projects/School Work/CS300/Assignment4/DoublyLinkedList.h
+Node.h
+Z:/Projects/School Work/CS300/Assignment4/Node.h
+string
+-
+iostream
+-
+
+Z:/Projects/School Work/CS300/Assignment4/NoSuchElementException.h
+string
+-
+
+Z:/Projects/School Work/CS300/Assignment4/Node.h
+
+Z:/Projects/School Work/CS300/Assignment4/test.cpp
+DoublyLinkedList.cpp
+Z:/Projects/School Work/CS300/Assignment4/DoublyLinkedList.cpp
+BigInteger.h
+Z:/Projects/School Work/CS300/Assignment4/BigInteger.h
+iostream
+-
+fstream
+-
+

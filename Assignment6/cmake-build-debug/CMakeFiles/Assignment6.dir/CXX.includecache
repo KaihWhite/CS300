@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+Z:/Projects/School Work/CS300/Assignment6/Node.h
+UPCEntry.h
+Z:/Projects/School Work/CS300/Assignment6/UPCEntry.h
+
+Z:/Projects/School Work/CS300/Assignment6/UPCEntry.cpp
+UPCEntry.h
+Z:/Projects/School Work/CS300/Assignment6/UPCEntry.h
+sstream
+-
+iostream
+-
+
+Z:/Projects/School Work/CS300/Assignment6/UPCEntry.h
+string
+-
+
+Z:/Projects/School Work/CS300/Assignment6/main.cpp
+iostream
+-
+twoHashTable.cpp
+Z:/Projects/School Work/CS300/Assignment6/twoHashTable.cpp
+UPCEntry.cpp
+Z:/Projects/School Work/CS300/Assignment6/UPCEntry.cpp
+twoHashTable.h
+Z:/Projects/School Work/CS300/Assignment6/twoHashTable.h
+UPCEntry.h
+Z:/Projects/School Work/CS300/Assignment6/UPCEntry.h
+assert.h
+-
+
+Z:/Projects/School Work/CS300/Assignment6/position.h
+
+Z:/Projects/School Work/CS300/Assignment6/twoHashTable.cpp
+twoHashTable.h
+Z:/Projects/School Work/CS300/Assignment6/twoHashTable.h
+fstream
+-
+sstream
+-
+string
+-
+iostream
+-
+
+Z:/Projects/School Work/CS300/Assignment6/twoHashTable.h
+position.h
+Z:/Projects/School Work/CS300/Assignment6/position.h
+UPCEntry.h
+Z:/Projects/School Work/CS300/Assignment6/UPCEntry.h
+cmath
+-
+set
+-
+Node.h
+Z:/Projects/School Work/CS300/Assignment6/Node.h
+

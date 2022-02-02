@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+Z:/Projects/School Work/CS300/Assignment3/MyRand.h
+
+Z:/Projects/School Work/CS300/Assignment3/Node.cpp
+Node.h
+Z:/Projects/School Work/CS300/Assignment3/Node.h
+
+Z:/Projects/School Work/CS300/Assignment3/Node.h
+
+Z:/Projects/School Work/CS300/Assignment3/Stack.cpp
+Stack.h
+Z:/Projects/School Work/CS300/Assignment3/Stack.h
+vector
+-
+cassert
+-
+
+Z:/Projects/School Work/CS300/Assignment3/Stack.h
+Node.h
+Z:/Projects/School Work/CS300/Assignment3/Node.h
+StackInterface.h
+Z:/Projects/School Work/CS300/Assignment3/StackInterface.h
+
+Z:/Projects/School Work/CS300/Assignment3/StackInterface.h
+
+Z:/Projects/School Work/CS300/Assignment3/main.cpp
+iostream
+-
+MyRand.h
+Z:/Projects/School Work/CS300/Assignment3/MyRand.h
+Stack.cpp
+Z:/Projects/School Work/CS300/Assignment3/Stack.cpp
+Node.cpp
+Z:/Projects/School Work/CS300/Assignment3/Node.cpp
+

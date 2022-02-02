@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+Z:/Projects/School Work/CS300/Assignment2/Node.h
+
+Z:/Projects/School Work/CS300/Assignment2/SLLString.cpp
+SLLString.h
+Z:/Projects/School Work/CS300/Assignment2/SLLString.h
+string
+-
+iostream
+-
+
+Z:/Projects/School Work/CS300/Assignment2/SLLString.h
+string
+-
+iostream
+-
+Node.h
+Z:/Projects/School Work/CS300/Assignment2/Node.h
+

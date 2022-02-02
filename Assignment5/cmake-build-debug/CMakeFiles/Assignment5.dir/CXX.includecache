@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+Z:/Projects/School Work/CS300/Assignment5/Customer.h
+vector
+-
+
+Z:/Projects/School Work/CS300/Assignment5/Queue.h
+QueueADT.h
+Z:/Projects/School Work/CS300/Assignment5/QueueADT.h
+vector
+-
+
+Z:/Projects/School Work/CS300/Assignment5/QueueADT.h
+iostream
+-
+
+Z:/Projects/School Work/CS300/Assignment5/Simulation.h
+Queue.h
+Z:/Projects/School Work/CS300/Assignment5/Queue.h
+vector
+-
+Customer.h
+Z:/Projects/School Work/CS300/Assignment5/Customer.h
+
+Z:/Projects/School Work/CS300/Assignment5/ass5.cpp
+iostream
+-
+fstream
+-
+Customer.h
+Z:/Projects/School Work/CS300/Assignment5/Customer.h
+Simulation.h
+Z:/Projects/School Work/CS300/Assignment5/Simulation.h
+vector
+-
+
